@@ -96,7 +96,7 @@ For a production pricing model, the next step would be to build a predictive mod
 ```text
 real-estate-market-analysis/
 │
-├── real_estate.ipynb
+├── apartments_git.ipynb
 └── README.md
 ```
 
